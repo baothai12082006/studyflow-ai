@@ -1,0 +1,4 @@
+# Persistent repositories exports
+from studyflow_ai.repositories.base import UserRepository, AcademicRepository, ProgressRepository
+from studyflow_ai.repositories.in_memory import InMemoryUserRepository, InMemoryAcademicRepository, InMemoryProgressRepository
+from studyflow_ai.repositories.persistent import SQLUserRepository, SQLAcademicRepository, SQLProgressRepository

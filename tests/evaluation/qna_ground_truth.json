@@ -1,0 +1,17 @@
+[
+  {
+    "course_id": "chem-101",
+    "question": "What is the difference between ionic and covalent bonds?",
+    "expected_keywords": ["transfer", "share", "electrons"]
+  },
+  {
+    "course_id": "cs-101",
+    "question": "How does recursion work in Python?",
+    "expected_keywords": ["base case", "call stack", "self"]
+  },
+  {
+    "course_id": "math-101",
+    "question": "What is the derivative of x squared?",
+    "expected_keywords": ["power rule", "2x"]
+  }
+]
