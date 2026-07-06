@@ -93,7 +93,7 @@ tests/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/studyflow-ai.git
+git clone https://github.com/baothai12082006/studyflow-ai.git
 cd studyflow-ai
 ```
 
